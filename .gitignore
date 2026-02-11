@@ -1,0 +1,13 @@
+##################
+# intellij files #
+##################
+*.iws
+*.iml
+*.ipr
+!.idea/runConfigurations
+.idea/inspectionProfiles
+.idea/libraries
+.idea/codeStyles
+.idea/shelf
+.idea/*.*
+.idea/easycode
