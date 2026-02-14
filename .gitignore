@@ -4,6 +4,7 @@
 *.iws
 *.iml
 *.ipr
+.idea/
 !.idea/runConfigurations
 .idea/inspectionProfiles
 .idea/libraries
@@ -11,3 +12,22 @@
 .idea/shelf
 .idea/*.*
 .idea/easycode
+
+##########
+# Docker #
+##########
+*.log
+.env
+.env.local
+
+#######
+# IDE #
+#######
+.vscode/
+*.swp
+
+######
+# OS #
+######
+.DS_Store
+Thumbs.db
